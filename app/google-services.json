@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200435587922",
+    "firebase_url": "https://socademic.firebaseio.com",
+    "project_id": "socademic",
+    "storage_bucket": "socademic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200435587922:android:0b56679e898381a1",
+        "android_client_info": {
+          "package_name": "shahar.socademic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200435587922-v717dn6q8kbcja9btdscco8epl00ntgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shahar.socademic",
+            "certificate_hash": "137b81e97579490748734585c3e81f673199f59e"
+          }
+        },
+        {
+          "client_id": "200435587922-18e2smnsvgb5fob36t5u9mo6homcras3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuFuUJYe9FgT5jxpRclCpRUNKFkKB6Ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200435587922-18e2smnsvgb5fob36t5u9mo6homcras3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

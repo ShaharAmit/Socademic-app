@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Socademic</string>
+    <string name="input">input</string>
+    <string name="MyChatBubble">MyChatBubble</string>
+    <string name="cloud">cloud</string>
+    <string name="upload">upload</string>
+    <string name="messaging">messaging</string>
+    <string name="calendar">calendar</string>
+    <string name="search">search</string>
+    <string name="bot">bot</string>
+</resources>

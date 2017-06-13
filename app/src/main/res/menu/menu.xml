@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <item
+        android:id="@+id/cloud"
+        android:icon="@drawable/folder"
+        android:title="@string/cloud"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/uploads"
+        android:icon="@drawable/attachment"
+        android:title="@string/upload"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/messaging"
+        android:icon="@drawable/messaging"
+        android:title="@string/messaging"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/calendar"
+        android:icon="@drawable/calendar"
+        android:title="@string/calendar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bot"
+        android:icon="@drawable/robot"
+        android:title="@string/bot"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:title="@string/search"
+        app:showAsAction="always" />
+
+</menu>
